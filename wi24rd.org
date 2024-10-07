@@ -18,7 +18,8 @@ ref: [[https://github.com/patternfly-java][PatternFly Java]]
 WZH find [[https://github.com/react4j/react4j][react4j/react4j]] based on [[https://github.com/akasha/akasha][akasha/akasha]]'s GWT and wish it will be upgrade to j2cl.
 [[https://github.com/DominoKit/domino-ui/tree/master][DominoKit/domino-ui: Domino-ui]]
 [[https://github.com/pepstock-org/Charba][pepstock-org/Charba: J2CL and GWT Charts library based on CHART.JS]]
-** Useful article
+** Interested People
+- [[https://github.com/treblereel][treblereel (Dmitrii Tikhomirov)]] written some [[https://blog.kie.org/category/all?search_authors=289][ Community Posts]].
 
 * Entreprise
 [[https://github.com/realityforge/chef-glassfish][realityforge/chef-glassfish]]
