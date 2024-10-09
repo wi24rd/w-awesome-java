@@ -14,12 +14,14 @@ It's still building. Some [[https://patternfly-java.github.io/components/toggle-
 Based on [[https://github.com/hal/elemento/blob/main/docs/router.md][elemento/docs/router.md at main · hal/elemento]]
 ref: [[https://github.com/patternfly-java][PatternFly Java]]
 
+** GWT
+- [[https://gwt-plugins.github.io/documentation/gwt-eclipse-plugin/maven/Maven.html][Maven Integration]]
 ** Others
 WZH find [[https://github.com/react4j/react4j][react4j/react4j]] based on [[https://github.com/akasha/akasha][akasha/akasha]]'s GWT and wish it will be upgrade to j2cl.
 [[https://github.com/DominoKit/domino-ui/tree/master][DominoKit/domino-ui: Domino-ui]]
 [[https://github.com/pepstock-org/Charba][pepstock-org/Charba: J2CL and GWT Charts library based on CHART.JS]]
 ** Interested People
-- [[https://github.com/treblereel][treblereel (Dmitrii Tikhomirov)]] written some [[https://blog.kie.org/category/all?search_authors=289][ Community Posts]].
+- [[https://github.com/treblereel][treblereel (Dmitrii Tikhomirov)]] written some [[https://blog.kie.org/category/all?search_authors=289][ Community Posts]]. He has [[https://github.com/treblereel/Beginning_J2CL/tree/main][treblereel/Beginning_J2CL: Java for web frontend developers with J2CL in examples]].
 
 * Entreprise
 [[https://github.com/realityforge/chef-glassfish][realityforge/chef-glassfish]]
