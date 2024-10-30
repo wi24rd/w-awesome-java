@@ -760,7 +760,9 @@ _For working with platform-specific native libraries._
 - [JavaCPP](https://github.com/bytedeco/javacpp) - Provides efficient and easy access to native C++.
 - [JNA](https://github.com/java-native-access/jna) - Work with native libraries without writing JNI. Also provides interfaces to common system libraries.
 - [JNR](https://github.com/jnr/jnr-ffi) - Work with native libraries without writing JNI. Also provides interfaces to common system libraries. Same goals as JNA, but faster, and serves as the basis for the upcoming [Project Panama](http://openjdk.java.net/projects/panama).
-
+#### wi24rd
+- [[https://github.com/Glavo/java-ffi-benchmark?tab=readme-ov-file][Glavo/java-ffi-benchmark]]
+- [[https://github.com/zakgof/java-native-benchmark][zakgof/java-native-benchmark: Benchmarking Java's native call APIs: JNI, JNA, JNR, BridJ and Project Panama]]
 ### Natural Language Processing
 
 _Libraries that specialize in processing text._
